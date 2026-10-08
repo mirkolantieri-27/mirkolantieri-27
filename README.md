@@ -4,7 +4,7 @@ Estudiante de **Analista de Sistemas** en el **Colegio Universitario IES**.
 
 ## 💻 En qué ando
 
-- Estudiando para recibirme de analista de sistemas y metiéndole pata al desarrollo.
+- Estudiando para recibirme de analista de sistemas.
 - Programo en **C#**, mi lenguaje de cabecera por ahora.
 
 ## 🎮 Lo que me apasiona
