@@ -9,7 +9,7 @@ Estudiante de **Analista de Sistemas** en el **Colegio Universitario IES**.
 
 ## 🎮 Lo que me apasiona
 
-Me apasiona la **programación** y los **juegos competitivos** como **Counter-Strike**. Me gusta resolver problemas, ya sea en el código o en medio de un 1v3.
+Me apasiona la **programación** y los **juegos competitivos** como **Counter-Strike**.
 
 ## 🛠️ Stack
 
