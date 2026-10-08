@@ -1,4 +1,4 @@
-# ¡Buenas! Soy Mirko 👋
+# ¡Hola! Soy Mirko 👋
 
 Estudiante de **Analista de Sistemas** en el **Colegio Universitario IES**.
 
